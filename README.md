@@ -30,6 +30,7 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 - Emphasis on the importance of collaboration 
 - Challenge of addressing the issues of overfitting and underfitting in the model
 
+![3 화면 캡처 2024-01-22 152546](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/4ffcc76d-4fd1-4234-b096-b8a6efe55928)
 
 ## 5. Project Development Process (프로젝트 개발 과정)
 
@@ -37,10 +38,12 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 
 **Data Source:** Utilizing "Fake and Real News" Dataset from Kaggle.
 
+![4 데이터셋](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/b5bf1617-d646-476f-b52f-ce5da20f5fdc)
 
 **Preprocessing:** Text cleaning, tokenization, stopwords removal, label encoding, etc.  
 **EDA:** Analyzing text length of news headlines, distribution of fake and real news, keyword analysis, etc.
 
+![5](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/c5e59dda-0988-48aa-bb9b-051dd508e6e8)
 
 
 **(2) Model Design and Implementation**
@@ -48,7 +51,9 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 - **LSTM Architecture:** Composed of word embedding, recurrent layer (LSTM), dropout, and densely connected layers.
 - **Hyperparameter Tuning:** Adjusting batch size, number of epochs, learning rate, etc., for model performance optimization.
 
-
+![7](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/5d23652c-a807-41b9-97cb-3940abdb0e99)
+![8](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/ff43a2d6-b815-40ed-a544-79d4cc9aa434)
+![9](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/0837ba1c-e36e-40a5-b268-d65bbe3f1f01)
 
 - **Visualization:** Diagrammatic visualization of each layer (Embedding, LSTM, Dense) from a 3D perspective, clearly indicating the output shape and number of parameters of each layer.
 
