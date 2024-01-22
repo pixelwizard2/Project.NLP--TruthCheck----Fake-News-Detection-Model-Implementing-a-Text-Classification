@@ -1,7 +1,11 @@
 # Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification
 _가짜 뉴스(헤드라인) 판별을 위한  텍스트 분류 모델 구현(LSTM)_
-
-Project Title: "Fake News Detection Model - Implementing a Text Classification Model Using LSTM"
+<p align="right">
+  <a href="https://blog.naver.com/pixelwizard/223301468800">
+    <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
+  </a> </p>  
+  
+![3 화면 캡처 2024-01-22 152546](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/4ffcc76d-4fd1-4234-b096-b8a6efe55928)
 
 ## 1. Project Overview and Background (프로젝트 개요 및 배경)
 
