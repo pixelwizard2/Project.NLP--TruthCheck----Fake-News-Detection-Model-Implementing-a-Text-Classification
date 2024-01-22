@@ -27,10 +27,11 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 
 ## 4. Project Features and Challenges (프로젝트 특징 및 도전 과제)
 
-Emphasis on the importance of collaboration 
-Challenge: Addressing the issues of overfitting and underfitting in the model.
+- Emphasis on the importance of collaboration 
+- Challenge of addressing the issues of overfitting and underfitting in the model
 
-Project Development Process:
+
+## 5. Project Development Process (프로젝트 개발 과정)
 
 Data Preprocessing and Exploratory Data Analysis (EDA)
 
