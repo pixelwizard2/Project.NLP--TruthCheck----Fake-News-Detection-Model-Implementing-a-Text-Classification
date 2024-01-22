@@ -38,21 +38,29 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 **Data Source:** Utilizing "Fake and Real News" Dataset from Kaggle.
 
 
-**Preprocessing:** Text cleaning, tokenization, stopwords removal, label encoding, etc.
+**Preprocessing:** Text cleaning, tokenization, stopwords removal, label encoding, etc.  
 **EDA:** Analyzing text length of news headlines, distribution of fake and real news, keyword analysis, etc.
 
 
 
-Model Design and Implementation
+**(2) Model Design and Implementation**
 
-LSTM Architecture: Composed of word embedding, recurrent layer (LSTM), dropout, and densely connected layers.
-Hyperparameter Tuning: Adjusting batch size, number of epochs, learning rate, etc., for model performance optimization.
-Visualization: Diagrammatic visualization of each layer (Embedding, LSTM, Dense) from a 3D perspective, clearly indicating the output shape and number of parameters of each layer.
-Performance Evaluation and Optimization
+- **LSTM Architecture:** Composed of word embedding, recurrent layer (LSTM), dropout, and densely connected layers.
+- **Hyperparameter Tuning:** Adjusting batch size, number of epochs, learning rate, etc., for model performance optimization.
 
-Evaluation Metrics: Accuracy, precision, recall, F1 score, etc.
-Cross-validation: Assessing the model's generalization ability and establishing strategies to prevent overfitting.
-Result Analysis and Visualization
+
+
+- **Visualization:** Diagrammatic visualization of each layer (Embedding, LSTM, Dense) from a 3D perspective, clearly indicating the output shape and number of parameters of each layer.
+
+
+
+**(3) Performance Evaluation and Optimization**
+
+- **Evaluation Metrics:** Accuracy, precision, recall, F1 score, etc.
+- **Cross-validation:** Assessing the model's generalization ability and establishing strategies to prevent overfitting.
+
+
+**(4) Result Analysis and Visualization**
 
 Result Interpretation: Analyzing the classification results and error patterns of the model.
 Visualization: Representing performance metrics and learning curves graphically.
