@@ -14,6 +14,7 @@ _가짜 뉴스(헤드라인) 판별을 위한  텍스트 분류 모델 구현(LS
 
 **※ Development Period: October 24, 2023, Total 5 hours**
 
+<br> <br>
 
 ## 2. Team Composition and Role Distribution (팀 구성 및 역할 분담 )
 
@@ -21,6 +22,7 @@ _가짜 뉴스(헤드라인) 판별을 위한  텍스트 분류 모델 구현(LS
 - **Team Member 1 :** In charge of designing, implementing, and optimizing the LSTM model.
 - **Team Member 2 :** Responsible for model performance evaluation, result interpretation, and visualization.
 
+<br> <br>
 
 ## 3. Technologies and Tools Used (사용 기술 및 도구)
 
@@ -28,6 +30,7 @@ _가짜 뉴스(헤드라인) 판별을 위한  텍스트 분류 모델 구현(LS
 - **Libraries and Frameworks:** TensorFlow, Keras, Pandas, Re, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK
 - **Machine Learning Techniques:** LSTM, Embedding, Dropout
 
+<br> <br>
 
 ## 4. Project Features and Challenges (프로젝트 특징 및 도전 과제)
 
@@ -36,16 +39,18 @@ _가짜 뉴스(헤드라인) 판별을 위한  텍스트 분류 모델 구현(LS
 
 ![3 화면 캡처 2024-01-22 152546](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/4ffcc76d-4fd1-4234-b096-b8a6efe55928)
 
+<br> <br>
+
 ## 5. Project Development Process (프로젝트 개발 과정)
 
 **(1) Data Preprocessing and Exploratory Data Analysis (EDA)**
 
-**Data Source:** Utilizing "Fake and Real News" Dataset from Kaggle.
+- **Data Source:** Utilizing "Fake and Real News" Dataset from Kaggle.
 
 ![4 데이터셋](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/b5bf1617-d646-476f-b52f-ce5da20f5fdc)
 
-**Preprocessing:** Text cleaning, tokenization, stopwords removal, label encoding, etc.  
-**EDA:** Analyzing text length of news headlines, distribution of fake and real news, keyword analysis, etc.
+- **Preprocessing:** Text cleaning, tokenization, stopwords removal, label encoding, etc.  
+- **EDA:** Analyzing text length of news headlines, distribution of fake and real news, keyword analysis, etc.
 
 ![5](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/c5e59dda-0988-48aa-bb9b-051dd508e6e8)
 
@@ -79,12 +84,14 @@ _가짜 뉴스(헤드라인) 판별을 위한  텍스트 분류 모델 구현(LS
 
 ![10](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/49307ebe-d542-4e35-9a90-d899ba943d66)
 
+<br> <br>
+
 ## 6. Reflections and Areas for Improvement (느낀 점 및 아쉬운 점)
 
 - **Reflections:** Gained a deep understanding of the LSTM model and data science, and realized the importance of teamwork in solving complex real-world problems.
 - **Areas for Improvement:** Lack of diverse data sources and experimental approaches during the project duration, and limited application of advanced NLP techniques.
 
-
+<br> <br>
 
 ## 7. Future Directions and Improvements (보완사항 및 미래 방향)
 
