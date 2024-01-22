@@ -53,7 +53,7 @@ _가짜 뉴스(헤드라인) 판별을 위한  텍스트 분류 모델 구현(LS
 - **EDA:** Analyzing text length of news headlines, distribution of fake and real news, keyword analysis, etc.
 
 ![5](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/c5e59dda-0988-48aa-bb9b-051dd508e6e8)
-<br>
+<br>  
 
 **(2) Model Design and Implementation**
 
@@ -75,7 +75,7 @@ _가짜 뉴스(헤드라인) 판별을 위한  텍스트 분류 모델 구현(LS
 - **Cross-validation:** Assessing the model's generalization ability and establishing strategies to prevent overfitting.
 
 ![9](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/0837ba1c-e36e-40a5-b268-d65bbe3f1f01)
-<br>
+<br>  
 
 **(4) Result Analysis and Visualization**
 
