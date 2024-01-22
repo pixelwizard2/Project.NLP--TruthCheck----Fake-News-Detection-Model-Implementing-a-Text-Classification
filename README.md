@@ -51,9 +51,10 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 - **LSTM Architecture:** Composed of word embedding, recurrent layer (LSTM), dropout, and densely connected layers.
 - **Hyperparameter Tuning:** Adjusting batch size, number of epochs, learning rate, etc., for model performance optimization.
 
+![6](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/199d4227-72d4-46cc-966e-5cc7fd759b67)
 ![7](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/5d23652c-a807-41b9-97cb-3940abdb0e99)
 ![8](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/ff43a2d6-b815-40ed-a544-79d4cc9aa434)
-![9](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/0837ba1c-e36e-40a5-b268-d65bbe3f1f01)
+
 
 - **Visualization:** Diagrammatic visualization of each layer (Embedding, LSTM, Dense) from a 3D perspective, clearly indicating the output shape and number of parameters of each layer.
 
@@ -64,13 +65,15 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 - **Evaluation Metrics:** Accuracy, precision, recall, F1 score, etc.
 - **Cross-validation:** Assessing the model's generalization ability and establishing strategies to prevent overfitting.
 
+![9](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/0837ba1c-e36e-40a5-b268-d65bbe3f1f01)
+
 
 **(4) Result Analysis and Visualization**
 
 - **Result Interpretation:** Analyzing the classification results and error patterns of the model.
 - **Visualization:** Representing performance metrics and learning curves graphically.
 
-
+![10](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/49307ebe-d542-4e35-9a90-d899ba943d66)
 
 ## 6. Reflections and Areas for Improvement (느낀 점 및 아쉬운 점)
 
@@ -83,3 +86,5 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 
 Plan to utilize a wider range of datasets and explore and apply the latest NLP techniques to enhance the model's performance through additional experiments.
 Future Direction: Comparing performance with other NLP models, improving accuracy and versatility through more sophisticated feature engineering, and exploring applicability in actual journalistic environments.
+
+![1 화면 캡처 2023-12-26 115739](https://github.com/pixelwizard2/Project.NLP--TruthCheck----Fake-News-Detection-Model-Implementing-a-Text-Classification/assets/138272416/db00524b-2cb1-4c4c-a2b6-0d8d18a4102d)
