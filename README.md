@@ -13,19 +13,21 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 
 ## 2. Team Composition and Role Distribution (팀 구성 및 역할 분담 )
 
--**Team Leader :** Responsible for data preprocessing and project management.
--**Team Member 1 :** In charge of designing, implementing, and optimizing the LSTM model.
--**Team Member 2 :** Responsible for model performance evaluation, result interpretation, and visualization.
+- **Team Leader :** Responsible for data preprocessing and project management.
+- **Team Member 1 :** In charge of designing, implementing, and optimizing the LSTM model.
+- **Team Member 2 :** Responsible for model performance evaluation, result interpretation, and visualization.
 
 
-## 3. Technologies and Tools Used(사용 기술 및 도구)
+## 3. Technologies and Tools Used (사용 기술 및 도구)
 
-Programming Language: Python
-Libraries and Frameworks: TensorFlow, Keras, Pandas, Re, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK
-Machine Learning Techniques: LSTM, Embedding, Dropout
-Project Features and Challenges:
+- **Programming Language:** Python
+- **Libraries and Frameworks:** TensorFlow, Keras, Pandas, Re, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK
+- **Machine Learning Techniques:** LSTM, Embedding, Dropout
 
-Emphasis on the importance of collaboration.
+
+## 4. Project Features and Challenges (프로젝트 특징 및 도전 과제)
+
+Emphasis on the importance of collaboration 
 Challenge: Addressing the issues of overfitting and underfitting in the model.
 
 Project Development Process:
