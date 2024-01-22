@@ -33,11 +33,16 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 
 ## 5. Project Development Process (프로젝트 개발 과정)
 
-Data Preprocessing and Exploratory Data Analysis (EDA)
+**(1) Data Preprocessing and Exploratory Data Analysis (EDA)**
 
-Data Source: Utilizing "Fake and Real News" Dataset from Kaggle.
-Preprocessing: Text cleaning, tokenization, stopwords removal, label encoding, etc.
-EDA: Analyzing text length of news headlines, distribution of fake and real news, keyword analysis, etc.
+**Data Source:** Utilizing "Fake and Real News" Dataset from Kaggle.
+
+
+**Preprocessing:** Text cleaning, tokenization, stopwords removal, label encoding, etc.
+**EDA:** Analyzing text length of news headlines, distribution of fake and real news, keyword analysis, etc.
+
+
+
 Model Design and Implementation
 
 LSTM Architecture: Composed of word embedding, recurrent layer (LSTM), dropout, and densely connected layers.
