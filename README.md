@@ -3,18 +3,22 @@
 
 Project Title: "Fake News Detection Model - Implementing a Text Classification Model Using LSTM"
 
-Project Overview and Background:
+## 1. Project Overview and Background (프로젝트 개요 및 배경)
 
-Problem Recognition: In the digital age, the spread of fake news causes social chaos and misinformation. Identifying fake news is becoming increasingly important.
-Project Objective: To develop a natural language processing (NLP) model based on LSTM (Long Short-Term Memory) neural networks to effectively classify fake and real news.
-Development Period: October 24, 2023, Total 5 hours (1.5 hours for model training)
+-**Problem Recognition:** In the digital age, the spread of fake news causes social chaos and misinformation. Identifying fake news is becoming increasingly important.
+-**Project Objective:** To develop a natural language processing (NLP) model based on LSTM (Long Short-Term Memory) neural networks to effectively classify fake and real news.
 
-Team Composition and Role Distribution:
+**※ Development Period: October 24, 2023, Total 5 hours**
 
-Team Leader Son Min-hee: Responsible for data preprocessing and project management.
-Team Member An Eun-jin: In charge of designing, implementing, and optimizing the LSTM model.
-Team Member Son Hyun-tae: Responsible for model performance evaluation, result interpretation, and visualization.
-Technologies and Tools Used:
+
+## 2. Team Composition and Role Distribution (팀 구성 및 역할 분담 )
+
+-**Team Leader :** Responsible for data preprocessing and project management.
+-**Team Member 1 :** In charge of designing, implementing, and optimizing the LSTM model.
+-**Team Member 2 :** Responsible for model performance evaluation, result interpretation, and visualization.
+
+
+## 3. Technologies and Tools Used(사용 기술 및 도구)
 
 Programming Language: Python
 Libraries and Frameworks: TensorFlow, Keras, Pandas, Re, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK
