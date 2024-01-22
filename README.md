@@ -62,18 +62,19 @@ Project Title: "Fake News Detection Model - Implementing a Text Classification M
 
 **(4) Result Analysis and Visualization**
 
-Result Interpretation: Analyzing the classification results and error patterns of the model.
-Visualization: Representing performance metrics and learning curves graphically.
-Code Review and Improvement
+- **Result Interpretation:** Analyzing the classification results and error patterns of the model.
+- **Visualization:** Representing performance metrics and learning curves graphically.
 
-Regular code reviews among team members to enhance code efficiency, readability, and maintainability.
-Refactoring during the collaboration process to improve the structure of the code, and solving bugs and performance issues.
-Attachments: "Text_Classification_Model_Fake_News_Detector_(Headline).ipynb" and "my_model.h5" files for download.
-Reflections and Areas for Improvement
 
-Reflections: Gained a deep understanding of the LSTM model and data science, and realized the importance of teamwork in solving complex real-world problems.
-Areas for Improvement: Lack of diverse data sources and experimental approaches during the project duration, and limited application of advanced NLP techniques.
-Future Directions and Improvements
+
+## 6. Reflections and Areas for Improvement (느낀 점 및 아쉬운 점)
+
+- **Reflections:** Gained a deep understanding of the LSTM model and data science, and realized the importance of teamwork in solving complex real-world problems.
+- **Areas for Improvement:** Lack of diverse data sources and experimental approaches during the project duration, and limited application of advanced NLP techniques.
+
+
+
+## 7. Future Directions and Improvements (보완사항 및 미래 방향)
 
 Plan to utilize a wider range of datasets and explore and apply the latest NLP techniques to enhance the model's performance through additional experiments.
 Future Direction: Comparing performance with other NLP models, improving accuracy and versatility through more sophisticated feature engineering, and exploring applicability in actual journalistic environments.
